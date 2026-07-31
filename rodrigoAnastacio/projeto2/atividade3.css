@@ -4,11 +4,25 @@
     box-sizing: border-box;
 }
 
+body {
+    background-image: url('./atividade3.jpg');
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 h1 {
+    color: white;
     padding: 10px 0;
 }
 
 h2 {
+    color: white;
+    padding: 10px 0;
+}
+
+h3 {
+    color: white;
     padding: 10px 0;
 }
 
@@ -31,36 +45,43 @@ hr {
 }
 
 .size1 {
+    color: white;
     font-size: 10px;
     padding-bottom: 5px;
 }
 
 .size2 {
+    color: white;
     font-size: 12px;
     padding-bottom: 5px;
 }
 
 .size3 {
+    color: white;
     font-size: 14px;
     padding-bottom: 5px;
 }
 
 .size4 {
+    color: white;
     font-size: 16px;
     padding-bottom: 5px;
 }
 
 .size5 {
+    color: white;
     font-size: 20px;
     padding-bottom: 5px;
 }
 
 .size6 {
+    color: white;
     font-size: 24px;
     padding-bottom: 5px;
 }
 
 .size7 {
+    color: white;
     font-size: 30px;
     padding-bottom: 5px;
 }
@@ -68,3 +89,5 @@ hr {
 img {
     width: 400px;
 }
+
+/* Coloquei as fontes em branco para dar um contraste com a imagem, pois as palavras sumiram. */
