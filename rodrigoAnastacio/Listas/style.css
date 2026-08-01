@@ -35,3 +35,7 @@ body {
 .oito {
   text-decoration: underline;
 }
+
+img {
+    width: 200px;
+}
