@@ -3,3 +3,41 @@
     padding: 0;
     box-sizing: border-box;
 } */
+
+body {
+    background: gray;
+}
+
+.um {
+color: blue;
+font-size: 25px;
+}
+
+.dois {
+color: green;
+}
+
+.tres {
+color: red;
+}
+
+.quatro {
+    font-size: 25px;
+color: blueviolet;
+}
+
+.cinco {
+color: orange;
+}
+
+.seis {
+font-weight: bold;
+}
+
+.sete {
+font-style: italic;
+}
+
+.oito {
+
+}
