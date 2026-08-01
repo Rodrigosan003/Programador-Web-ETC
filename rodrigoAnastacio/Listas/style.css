@@ -5,39 +5,39 @@
 } */
 
 body {
-    background: gray;
+  background: gray;
 }
 
 .um {
-color: blue;
-font-size: 25px;
+  color: blue;
+  font-size: 25px;
 }
 
 .dois {
-color: green;
+  color: green;
 }
 
 .tres {
-color: red;
+  color: red;
 }
 
 .quatro {
-    font-size: 25px;
-color: blueviolet;
+  font-size: 25px;
+  color: blueviolet;
 }
 
 .cinco {
-color: orange;
+  color: orange;
 }
 
 .seis {
-font-weight: bold;
+  font-weight: bold;
 }
 
 .sete {
-font-style: italic;
+  font-style: italic;
 }
 
 .oito {
-
+  text-decoration: underline;
 }
