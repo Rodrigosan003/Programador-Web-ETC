@@ -25,5 +25,26 @@ Criar atributos para as seguintes entidades:
 * Sistema
 
 - Usuário do instagram
+
+* Nome
+* Usuário
+* E-mail
+* Senha
+* Telefone
+* Sexo
+
 - Cliente
+
+* CPF
+* Endereço
+* Telefone
+* Nascimento
+* Sexo
+
 - Vendedor
+
+* CPF
+* Endereço
+* Telefone
+* Nascimento
+* Local
