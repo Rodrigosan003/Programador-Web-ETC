@@ -18,7 +18,12 @@ Criar atributos para as seguintes entidades:
 
 - Computador
 
-* 
+* IP
+* Modelo
+* Ano
+* Marca
+* Sistema
+
 - Usuário do instagram
 - Cliente
 - Vendedor
