@@ -10,8 +10,15 @@ Criar atributos para as seguintes entidades:
 
 - Aluno
 
+* Matrícula
+* Nome
+* Endereço
+* Curso
+* Telefone
 
 - Computador
+
+* 
 - Usuário do instagram
 - Cliente
 - Vendedor
