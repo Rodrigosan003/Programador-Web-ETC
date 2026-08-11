@@ -1,7 +1,16 @@
 Criar atributos para as seguintes entidades:
 
 - Carro
+
+* Identificador
+* Modelo
+* Placa
+* Marca
+* Ano
+
 - Aluno
+
+
 - Computador
 - Usuário do instagram
 - Cliente
