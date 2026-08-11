@@ -1,0 +1,8 @@
+Criar atributos para as seguintes entidades:
+
+- Carro
+- Aluno
+- Computador
+- Usuário do instagram
+- Cliente
+- Vendedor
