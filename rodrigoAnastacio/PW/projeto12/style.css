@@ -49,3 +49,8 @@ form {
    display: flex;
    flex-direction: column;
 }
+
+footer p {
+    text-align: center;
+    padding-bottom: 30px;
+}
