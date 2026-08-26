@@ -35,3 +35,7 @@ nav a {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
 }
+
+main {
+    padding: 30px;
+}
