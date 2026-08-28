@@ -81,5 +81,20 @@ main section h2 {
 
 main section h2 span {
     color: blue;
-    font-weight: 900;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+main section p {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+footer {
+    width: 100%;
+}
+
+footer p {
+    text-align: center;
+    color: aliceblue;
 }
