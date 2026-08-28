@@ -76,4 +76,10 @@ main section img:hover {
 main section h2 {
     color: aliceblue;
     font-size: 25px;
+    margin-bottom: 15px;
+}
+
+main section h2 span {
+    color: blue;
+    font-weight: 900;
 }
