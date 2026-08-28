@@ -47,3 +47,8 @@ main section img {
     border-radius: 50%;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
+
+main section img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 20px blue;
+}
