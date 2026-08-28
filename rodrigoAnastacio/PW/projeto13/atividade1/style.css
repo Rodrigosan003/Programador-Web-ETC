@@ -5,7 +5,20 @@
 }
 
 body {
-    background-image: url("./background.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    padding: 30px;
+}
+
+body::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url(../background.jpg) center/cover no-repeat;
+  filter: blur(10px);
+  transform: scale(1.1); /* evita bordas vazias após o blur */
+  z-index: -1;
+}
+
+header h1 {
+    text-align: center;
+    color: aliceblue;
 }
